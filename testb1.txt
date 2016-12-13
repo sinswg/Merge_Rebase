@@ -1,1 +1,7 @@
-test merge branch1
+test merge branch2
+
+check conflicts
+
+de;fe';f;
+
+
