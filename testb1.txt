@@ -7,3 +7,11 @@ de;fe';f;
 
 check conflicts
 
+
+test merge branch1
+check conflicts
+
+welkfwe ekwlrjwel welrjmwe;l
+werlhwelk
+
+
